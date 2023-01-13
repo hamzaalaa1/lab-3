@@ -1,9 +1,9 @@
 package iti.jets.dao;
 
 public class Module {
-    int func(){
+    boolean func(){
         System.out.println("New module");
-	return 6;
+	return true;
     }
     
 }
