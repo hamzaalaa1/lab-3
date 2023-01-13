@@ -1,9 +1,9 @@
 package iti.jets.dao;
 
 public class Module {
-    int func(){
+    String func(){
         System.out.println("New module");
-	return 5;
+	return "5miiss";
     }
     
 }
